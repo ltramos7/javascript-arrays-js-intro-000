@@ -39,7 +39,10 @@ function removeElementFromBeginningOfArray(array){
   // both versions of my code work, but which is best practice?
 }
 
-function destructivelyRemoveElementFromEndOfArray(array){}
+function destructivelyRemoveElementFromEndOfArray(array){
+  array.pop();
+  return array;
+}
 
 
 
