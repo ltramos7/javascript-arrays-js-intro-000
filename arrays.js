@@ -39,7 +39,7 @@ function removeElementFromBeginningOfArray(array){
   // both versions of my code work, but which is best practice?
 }
 
-
+function destructivelyRemoveElementFromEndOfArray(){}
 
 
 
